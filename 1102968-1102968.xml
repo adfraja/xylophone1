@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 <properties>
-<entry key="eventID">1102966</entry>
+<entry key="eventID">1102968</entry>
 <entry key="eventType">1</entry>
 <entry key="nodeID">100870</entry>
 <entry key="nodeType">product</entry>
-<entry key="eventCreationTime">2024-02-08 15:27:29.0</entry>
-<entry key="eventRevision">0.8</entry>
-<entry key="messageCreationTime">2024-02-08 15:27:47.682</entry>
+<entry key="eventCreationTime">2024-02-08 15:36:10.0</entry>
+<entry key="eventRevision">0.10</entry>
+<entry key="messageCreationTime">2024-02-08 15:36:28.183</entry>
 </properties>
 -->
 <!-- Configuration:
@@ -15,19 +15,19 @@
 <STEP-ProductInformation ResolveInlineRefs="true">
 <Products />
 </STEP-ProductInformation>
-Export from TEST_0001
-Effective date: 2024-02-08 15:27:47
+Export from TEST_001
+Effective date: 2024-02-08 15:36:28
 Classifications All
 Products "100870"
 Assets All
 
 Exported by domain exporter.
 -->
-<STEP-ProductInformation ExportTime="2024-02-08 15:27:47" ExportContext="Context1" ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+<STEP-ProductInformation ExportTime="2024-02-08 15:36:28" ExportContext="Context1" ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
 
   <Products>
     <Product ID="100870" UserTypeID="draj_sku" ParentID="100867">
-      <Name Changed="true">TEST_0001</Name>
+      <Name Changed="true">TEST_001</Name>
       <Values>
         <Value AttributeID="draj_product_description">TESTED</Value>
       </Values>
