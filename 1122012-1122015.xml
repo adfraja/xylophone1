@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+<properties>
+<entry key="eventID">1122012</entry>
+<entry key="eventType">0</entry>
+<entry key="nodeID">167380</entry>
+<entry key="nodeType">product</entry>
+<entry key="eventCreationTime">2024-04-05 10:29:04.0</entry>
+<entry key="eventRevision">0.2</entry>
+<entry key="messageCreationTime">2024-06-03 11:05:05.617</entry>
+<entry key="eventID">1122015</entry>
+<entry key="eventType">0</entry>
+<entry key="nodeID">167253</entry>
+<entry key="nodeType">product</entry>
+<entry key="eventCreationTime">2024-04-05 10:29:04.0</entry>
+<entry key="eventRevision">0.2</entry>
+<entry key="messageCreationTime">2024-06-03 11:05:05.617</entry>
+</properties>
+-->
+<!-- Configuration:
+<?xml version='1.0'?>
+<STEP-ProductInformation ResolveInlineRefs="true">
+<Products />
+</STEP-ProductInformation>
+Export from draj_test_001
+Effective date: 2024-06-03 11:05:04
+Classifications All
+Products "167380" "167253"
+Assets All
+
+Exported by domain exporter.
+-->
+<STEP-ProductInformation ExportTime="2024-06-03 11:05:05" ExportContext="Context1" ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+
+  <Products>
+    <Product ID="167253" UserTypeID="draj_sku" ParentID="167249" Changed="true">
+      <Name Changed="true">draj_test_001</Name>
+      <AssetCrossReference AssetID="Iphone15" Type="PrimaryProductImage" Changed="true"/>
+      <Values>
+        <Value AttributeID="draj_product_EPD" Changed="true">2038-04-05</Value>
+        <Value AttributeID="draj_product_MFD" Changed="true">2022-04-05</Value>
+        <Value AttributeID="draj_product_ean" Changed="true">AIP15256GB</Value>
+        <Value AttributeID="draj_product_network" Changed="true">5G</Value>
+        <Value AttributeID="draj_product_description" Changed="true">Apple 15</Value>
+      </Values>
+    </Product>
+    <Product ID="167380" UserTypeID="draj_sku" ParentID="167249" Changed="true">
+      <Name Changed="true">draj_test_002</Name>
+      <AssetCrossReference AssetID="Iphone15" Type="PrimaryProductImage" Changed="true"/>
+      <Values>
+        <Value AttributeID="draj_product_EPD" Changed="true">2038-04-05</Value>
+        <Value AttributeID="draj_product_MFD" Changed="true">2022-04-05</Value>
+        <Value AttributeID="draj_product_ean" Changed="true">AIP15256GB</Value>
+        <Value AttributeID="draj_product_network" Changed="true">5G</Value>
+        <Value AttributeID="draj_product_description" Changed="true">Apple 15</Value>
+      </Values>
+    </Product>
+  </Products>
+</STEP-ProductInformation>
